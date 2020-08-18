@@ -1,0 +1,11 @@
+/* process.css */
+
+/* 버튼 크게 만들려고 css만듦  */
+
+.ProcessComponent_container{
+    text-align: center;
+    font-size:1.5rem;
+}
+.btn-group{
+    color: black;
+}

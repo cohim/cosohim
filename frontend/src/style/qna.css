@@ -1,0 +1,73 @@
+.qna_button{
+    float:right;
+    z-index:1;
+    margin-top:-60px;
+    margin-right: 30px;
+}
+
+.qna_name{
+    background-color:#bed560 ;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    height: 90px;
+    line-height: 3em;
+}
+.qna_img{
+    height:80%;
+    margin-top:30px;
+    margin-left:150px;
+}
+
+button.btn.btn-secondary{
+    font-size:1.5em;
+    padding:10px;
+    background:black;
+    border: black;
+    border-radius: 10px;
+    margin-top: -8px;
+}
+#root > div > div.container > div:nth-child(2) > div > div > aside > div > button > a{
+    color: white;
+}
+/* .qna_button Link{
+    color:white;
+} */
+
+.qnaform {
+    font-weight:bold;
+    font-size:2em;
+}
+.qnaform header{
+    text-align:center;
+}
+.qnaform h4{
+    font-weight: bold;
+}
+
+#root > div > div.container > div:nth-child(2) > div > div > form > div:nth-child(1) > label{
+    margin-bottom: 20px;
+}
+#root > div > div.container > div:nth-child(2) > div > div > form > div:nth-child(3) > label{
+    margin-bottom: 20px;
+}
+#root > div > div.container > div:nth-child(2) > div > div > div > input:nth-child(1){
+    background-color:black;
+    border:black;
+    font-size:1.5rem;
+    margin-right:10px;
+}
+#root > div > div.container > div:nth-child(2) > div > div > div > input:nth-child(2){
+    background-color:black;
+    border:black;
+    font-size:1.5rem;
+}
+
+#root > div > div.container > div:nth-child(2) > div > div > div{
+    text-align: center;
+}
+
+.qnabtn:hover{
+    color:white;
+}
+
